@@ -14,7 +14,7 @@ https://github.com/fatihboy/EchoServer.git - делаем форк этого р
 
   1. Развернуто четыре инстанса приложения
 
-  2. Три инстанса доступны по адресам https://testvm.sensetower.io/instance1/, https://testvm.sensetower.io/instance2/ https://testvm.sensetower.io/instance3/ при этом не доступны по внешнему и внутреннему IP инстансы напрямую не доступны.
+  2. Три инстанса доступны по адресам https://testvm.sensetower.io/instance1/, https://testvm.sensetower.io/instance2/ https://testvm.sensetower.io/instance3/ при этом не доступны по внешнему и внутреннему IP.
 
   3. Один инстанс доступен по внешнему IP по не стандартному порту
 
